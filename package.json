@@ -1,0 +1,25 @@
+{
+  "name": "btsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haffedali/BTSbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haffedali/BTSbot/issues"
+  },
+  "homepage": "https://github.com/haffedali/BTSbot#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "twit": "^2.2.11",
+    "twitt": "^1.0.0"
+  }
+}
